@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\codesphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|solutionrelative:codesphere\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|c:\\users\\orange\\source\\repos\\codesphere\\codesphere\\courses for student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|solutionrelative:codesphere\\courses for student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|solutionrelative:codesphere\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|solutionrelative:codesphere\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\courses for student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE444D31-504E-4188-9D01-327AF79127B1}|codesphere\\codesphere.csproj|solutionrelative:codesphere\\courses for student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courses for student.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\Courses for student.aspx.cs",
+              "RelativeDocumentMoniker": "codesphere\\Courses for student.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\Courses for student.aspx.cs",
+              "RelativeToolTip": "codesphere\\Courses for student.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:15:29.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses for student.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\Courses for student.aspx",
+              "RelativeDocumentMoniker": "codesphere\\Courses for student.aspx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\Courses for student.aspx",
+              "RelativeToolTip": "codesphere\\Courses for student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T06:15:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx.cs",
+              "RelativeDocumentMoniker": "codesphere\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx.cs",
+              "RelativeToolTip": "codesphere\\login.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:04:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx",
+              "RelativeDocumentMoniker": "codesphere\\login.aspx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\login.aspx",
+              "RelativeToolTip": "codesphere\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T19:03:55.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\home.aspx",
+              "RelativeDocumentMoniker": "codesphere\\home.aspx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\codesphere\\codesphere\\home.aspx",
+              "RelativeToolTip": "codesphere\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T19:00:55.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
